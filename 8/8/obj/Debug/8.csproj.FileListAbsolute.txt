@@ -1,0 +1,11 @@
+C:\Users\ilruz\source\repos\8\8\bin\Debug\8.exe.config
+C:\Users\ilruz\source\repos\8\8\bin\Debug\8.exe
+C:\Users\ilruz\source\repos\8\8\bin\Debug\8.pdb
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilruz\source\repos\8\8\obj\Debug\_8.Form1.resources
+C:\Users\ilruz\source\repos\8\8\obj\Debug\_8.Properties.Resources.resources
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.csproj.GenerateResource.cache
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.exe
+C:\Users\ilruz\source\repos\8\8\obj\Debug\8.pdb
